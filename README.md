@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Created to support Data Science capstone project
+# Coursera Capstone Project
+Created to support Data Science Capstone Project 2019
